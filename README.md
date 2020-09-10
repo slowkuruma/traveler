@@ -2,5 +2,5 @@
 
 ---
 
-[ERD](https://i.imgur.com/WOkVJqk.png)
+![ERD](https://i.imgur.com/WOkVJqk.png)
 
