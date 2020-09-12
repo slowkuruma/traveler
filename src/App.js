@@ -10,11 +10,10 @@ import {
 
 const App = () => {
   return <Router>
-    <Router path="/" exact>
+    <Route path="/" exact>
       <Users />
-
-
-    </Router>
+    </Route>
+    <Redirect to="/" />
   </Router>
 }
 
