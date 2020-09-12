@@ -10,7 +10,7 @@ import {
 
 const App = () => {
   return <Router>
-    <Router path="/">
+    <Router path="/" exact>
       <Users />
 
 
