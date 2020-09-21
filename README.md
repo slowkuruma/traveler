@@ -4,3 +4,24 @@
 
 ![ERD](https://i.imgur.com/WOkVJqk.png)
 
+![ScreenShot](https://i.imgur.com/hQXc5KQ.png)
+
+![ScreenShot](https://i.imgur.com/xsI6UPl.png)
+
+---
+
+Technologies Used
+
+- CSS
+- JS
+- MongoDB
+- Express
+- React
+- NodeJS
+
+---
+
+Next Steps
+
+- Completed styling
+
