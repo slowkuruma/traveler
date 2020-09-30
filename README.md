@@ -21,7 +21,4 @@ Technologies Used
 
 ---
 
-Next Steps
-
-- Completed styling
 
